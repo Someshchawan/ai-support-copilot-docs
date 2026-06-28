@@ -1,0 +1,23 @@
+# AI Support Copilot
+
+> Production-style AI support assistant with structured prompts, retry logic, and 8-dimension response evaluation.
+
+This project demonstrates how to build reliable AI-powered features that go beyond a simple API call. It includes prompt engineering with system/user role separation, automatic retry with exponential backoff for rate limits, and a response evaluation system that catches hallucinations, irrelevant answers, error leaks, and low-quality outputs before they reach end users.
+
+## Documentation
+
+- [Introduction](https://someshchawan.github.io/ai-support-copilot-docs/docs/): Project overview and architecture
+- [Quickstart](https://someshchawan.github.io/ai-support-copilot-docs/docs/quickstart): Get running in 5 minutes
+- [Prompt Design](https://someshchawan.github.io/ai-support-copilot-docs/docs/concepts/prompts): How prompts are structured
+- [Evaluation System](https://someshchawan.github.io/ai-support-copilot-docs/docs/concepts/evaluation): 8 quality checks explained
+- [Retry Logic](https://someshchawan.github.io/ai-support-copilot-docs/docs/concepts/retry-logic): Error handling and backoff
+- [Build a Chatbot](https://someshchawan.github.io/ai-support-copilot-docs/docs/guides/build-chatbot): Step-by-step implementation
+- [Running Evaluations](https://someshchawan.github.io/ai-support-copilot-docs/docs/guides/running-evaluations): Using the evaluation system
+- [API Reference](https://someshchawan.github.io/ai-support-copilot-docs/docs/reference/api-reference): Class and method documentation
+- [Evaluation Checks](https://someshchawan.github.io/ai-support-copilot-docs/docs/reference/evaluation-checks): Every check detailed
+- [Troubleshooting](https://someshchawan.github.io/ai-support-copilot-docs/docs/troubleshooting/api-errors): Common issues and fixes
+
+## Source Code
+
+- Repository: https://github.com/Someshchawan/ai-support-copilot
+- Documentation site repo: https://github.com/Someshchawan/ai-support-copilot-docs
