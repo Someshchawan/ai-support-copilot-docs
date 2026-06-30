@@ -46,12 +46,12 @@ graph TD
 
 | What you want to do | Where to go |
 |---|---|
-| Get started quickly | [Quickstart](quickstart) |
-| Understand prompt design | [Prompt Design](concepts/prompts) |
-| Learn about response evaluation | [Evaluation System](concepts/evaluation) |
-| Build a complete chatbot | [Build a Chatbot](guides/build-chatbot) |
-| Debug common issues | [Troubleshooting](troubleshooting/api-errors) |
-| See all evaluation checks | [Evaluation Reference](reference/evaluation-checks) |
+| Get started quickly | [Quickstart](/docs/quickstart) |
+| Understand prompt design | [Prompt Design](/docs/concepts/prompts) |
+| Learn about response evaluation | [Evaluation System](/docs/concepts/evaluation) |
+| Build a complete chatbot | [Build a Chatbot](/docs/guides/build-chatbot) |
+| Debug common issues | [Troubleshooting](/docs/troubleshooting/api-errors) |
+| See all evaluation checks | [Evaluation Reference](/docs/reference/evaluation-checks) |
 
 ## Source code
 
